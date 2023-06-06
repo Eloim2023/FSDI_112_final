@@ -1,0 +1,25 @@
+form > p > label {
+    color: red;
+    padding: 10px;
+    margin: 10px;
+}
+
+form > p > input[type="text"] {
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+form > p > textarea {
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+#login {
+    border-radius: 8px;
+    border-style: solid;
+    border-color: antiquewhite;
+}
