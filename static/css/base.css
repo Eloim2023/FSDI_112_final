@@ -22,4 +22,6 @@ form > p > textarea {
     border-radius: 8px;
     border-style: solid;
     border-color: antiquewhite;
+    font-family: 'Nerko One', cursive;
+        font-family: 'Roboto', sans-serif;
 }
